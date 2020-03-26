@@ -1,2 +1,3 @@
 Lys Chicken LYSC
 LYS Human P61
+Lys Mouse pk94
